@@ -143,6 +143,20 @@ The successful ICMP traceroute confirms that the destination responded to ICMP p
 5. ICMP traceroute successfully reached the destination at the first reported hop.
 6. Different network diagnostic methods can produce different results on the same network.
 
+## Project Screenshots
+
+### 1. macOS to Windows Ping
+![macOS Ping Results](screenshots/macOS-ping.png)
+
+### 2. Windows to macOS Ping
+[View Windows Ping Results](screenshots/README.md)
+
+### 3. UDP Traceroute
+![UDP Traceroute Results](screenshots/udp-traceroute.png)
+
+### 4. ICMP Traceroute
+![ICMP Traceroute Results](screenshots/icmp-traceroute.png)
+
 ## Skills Demonstrated
 
 - TCP/IP networking fundamentals
