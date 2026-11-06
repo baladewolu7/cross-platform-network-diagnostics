@@ -1,0 +1,1 @@
+Network diagnostic MacBook screenshots
